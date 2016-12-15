@@ -1,0 +1,5 @@
+1.After looking at both sets of codes I realize that his was much simpler and took up less lines of code. Both did the same job but mine was clearly inferior as had lots of unnecessary code
+His is much more organized and his variables are used a lot more than mine this means unlike mine he doesn't have lines of code the length of the page and yet still makes all the correct calculations making it much more efficient
+The advantages to having a separate universe class is that you can change certain parts of the code without it affecting the rest of the program , it also makes it more organized and easy to find errors in the code. This also made it so the main nbody was less cluttered with code that could be done else where
+The array is a major difference as mine has a lot of work around a array reading a file where as yours doesn't have all that in yet still does the same job
+My coding strengths are knowing the logic of what I have to do also finding errors and being able to make changes to fix it. My weakness are placing to many errors in such as syntax errors and errors to do with using the wrong commands and processes in ruby
